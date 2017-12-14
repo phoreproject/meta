@@ -1,6 +1,6 @@
 # Phore Meta
 
-This is the project management repo for Phore. You can use this repo to find volunteer opportunities or to request fundings for your Ellaism-related project.
+This is the project management repo for Phore. You can use this repo to find volunteer opportunities or to request fundings for your Phore-related project.
 
 ## Github Organization Rules
 
